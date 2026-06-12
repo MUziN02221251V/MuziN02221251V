@@ -1,7 +1,8 @@
 ## Hi there I'm Muzi Mbiba 👋
 
 
-### 🎓 Soon-to-be Computer Science Graduate at The National University Of Science and Technology in Zimbabwe & Aspiring Software Engineer
+### 🎓 Soon-to-be Computer Science Graduate at The National University Of Science and Technology in Zimbabwe 
+Aspiring Software Engineer
 
 I am passionate about building efficient, scalable, and user-centric software. I love solving complex algorithmic puzzles and translating them into clean, maintainable code.
 I mostly work on frontend stuff.
