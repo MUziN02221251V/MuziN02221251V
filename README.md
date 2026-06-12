@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there I'm Muzi Mbiba 👋
 
-<!--
-**MUziN02221251V/MuziN02221251V** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 🎓 Soon-to-be Computer Science Graduate at The National University Of Science and Technology in Zimbabwe & Aspiring Software Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am passionate about building efficient, scalable, and user-centric software. I love solving complex algorithmic puzzles and translating them into clean, maintainable code.
+I mostly work on frontend stuff.
+
+🛠️ Tech Stack & Tools
+
+- **Languages:** Python, JavaScript/TypeScript, Java, C++
+- **Frontend:** React.js, Next.js, HTML5/CSS3, TailwindCSS
+- **Backend & Databases:** Node.js, Express, PostgreSQL, MongoDB, Redis
