@@ -9,6 +9,6 @@ I mostly work on frontend stuff.
 
 🛠️ Tech Stack & Tools
 
-- **Languages:** Python, JavaScript/TypeScript, Java, C++
+- **Languages:** C#, Python, JavaScript/TypeScript, Java, C++
 - **Frontend:** React.js, Next.js, HTML5/CSS3, TailwindCSS
 - **Backend & Databases:** Node.js, Express, PostgreSQL, MongoDB, Redis
